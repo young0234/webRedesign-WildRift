@@ -1,9 +1,3 @@
-
----
-[README](https://github.com/dkssud-dus/webRedesign-WildRift/blob/main/README.md) | [README_ko](https://github.com/dkssud-dus/webRedesign-WildRift/blob/main/README_ko.md)
-
-<br/>
-
 `#RedesignProject` `#GameWebsite` `#TeamProject` `#4PeopleTeam` `#PCOnly` 
 # **Website Redesign Project Details:**
 ### 와일드 리프트 Wild Rift
