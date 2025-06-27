@@ -22,6 +22,23 @@
 <br/>
 <br/>
 
+## **Schedule**
+**2025.06.17. - 2025.06.22. (5h - 6h, weekdays only)**
+
+</br>
+
+| Phase         | Date Range                  |
+|---------------|-----------------------------|
+| Planning      | 2025.06.17.                 |
+| Design        | 2025.06.17. – 2025.06.20.   |
+| Development   | 2025.06.18. – 2025.06.22.   |
+
+
+
+<br/>
+<br/>
+<br/>
+
 ## Table of Contents
 
 1. [Project Overview](#1-Project-Overview)   
