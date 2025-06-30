@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-## **작업분담**
+## **작업 분담**
 | Name         | Responsibility Area           | Main Page Work                                          | Sub Page Work                                                  |
 |--------------|-------------------------------|---------------------------------------------------------|----------------------------------------------------------------|
 | 👑 박서영, Park seo young | Info Delivery                 | Game Info, Event, Footer                                | Notice List, Notice Detail (Text/Video)                            |
