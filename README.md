@@ -247,20 +247,20 @@ This Project Brief (in Korean) was individually written and organized by **Kim C
 
 ### 4.3. Site URL
 #### 4.3.1. Main Page
-1. [Main Page](https://dkssud-dus.github.io/webRedesign-WildRift/)
+1. [Main Page](https://young0234.github.io/webRedesign-WildRift/)
 
 </br>
 </br>
 </br>
 
 #### 4.3.2. Sub Pages
-1. [Notice List](https://dkssud-dus.github.io/webRedesign-WildRift/pages/notice.html)
-2. [Notice Detail: Text](https://dkssud-dus.github.io/webRedesign-WildRift/pages/notice-sub-text.html)
-3. [Notice Detail: Video](https://dkssud-dus.github.io/webRedesign-WildRift/pages/notice-sub-video.html)
-4. [Monster List](https://dkssud-dus.github.io/webRedesign-WildRift/pages/monster-list.html)
-5. [Monster Detail](https://dkssud-dus.github.io/webRedesign-WildRift/pages/monster-epic01.html)
-6. [Character Detail](https://dkssud-dus.github.io/webRedesign-WildRift/pages/character.html)
-7. [Skin](https://dkssud-dus.github.io/webRedesign-WildRift/pages/skinCharacterSelection.html)
+1. [Notice List](https://young0234.github.io/webRedesign-WildRift/pages/notice.html)
+2. [Notice Detail: Text](https://young0234.github.io/webRedesign-WildRift/pages/notice-sub-text.html)
+3. [Notice Detail: Video](https://young0234.github.io/webRedesign-WildRift/pages/notice-sub-video.html)
+4. [Monster List](https://young0234.github.io/webRedesign-WildRift/pages/monster-list.html)
+5. [Monster Detail](https://young0234.github.io/webRedesign-WildRift/pages/monster-epic01.html)
+6. [Character Detail](https://young0234.github.io/webRedesign-WildRift/pages/character.html)
+7. [Skin](https://young0234.github.io/webRedesign-WildRift/pages/skinCharacterSelection.html)
 
 </br>
 </br>
