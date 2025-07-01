@@ -1,6 +1,6 @@
 
 ---
-[README](https://github.com/dkssud-dus/webRedesign-WildRift/blob/main/README.md) | [README_ko](https://github.com/dkssud-dus/webRedesign-WildRift/blob/main/README_ko.md)
+[README](https://github.com/young0234/webRedesign-WildRift/blob/main/README.md) | [README_ko](https://github.com/young0234/webRedesign-WildRift/blob/main/README_ko.md)
 
 <br/>
 
@@ -102,7 +102,7 @@
 
 ## 3. Page-wise Features
 
-### 3.1. [Main Page](https://dkssud-dus.github.io/webRedesign-WildRift/index.html)
+### 3.1. [Main Page](https://young0234.github.io/webRedesign-WildRift/index.html)
 
 ---
 
@@ -373,7 +373,7 @@
 
 ---
 
-### 3.2.1. [Notice List](https://dkssud-dus.github.io/webRedesign-WildRift/pages/notice.html)
+### 3.2.1. [Notice List](https://young0234.github.io/webRedesign-WildRift/pages/notice.html)
 ![28](https://github.com/user-attachments/assets/adaaf521-72c8-405e-b6c6-67e855e6920e)
 
 #### 목적
@@ -397,7 +397,7 @@
 
 ---
 
-### 3.2.2. Notice Detail ([Text](https://dkssud-dus.github.io/webRedesign-WildRift/pages/notice-sub-text.html) / [Video](https://dkssud-dus.github.io/webRedesign-WildRift/pages/notice-sub-video.html))
+### 3.2.2. Notice Detail ([Text](https://young0234.github.io/webRedesign-WildRift/pages/notice-sub-text.html) / [Video](https://dkssud-dus.github.io/webRedesign-WildRift/pages/notice-sub-video.html))
 ![29](https://github.com/user-attachments/assets/5a61d677-00b0-4fa5-8f08-b6e214fa000d)
 
 #### 목적
@@ -422,7 +422,7 @@
 
 ---
 
-### 3.2.3. [Monster List](https://dkssud-dus.github.io/webRedesign-WildRift/pages/monster-list.html)
+### 3.2.3. [Monster List](https://young0234.github.io/webRedesign-WildRift/pages/monster-list.html)
 ![30](https://github.com/user-attachments/assets/0599691c-ff9f-4a58-878e-5b09fe06feba)
 
 #### 목적
@@ -449,7 +449,7 @@
 
 ---
 
-### 3.2.4. [Monster Detail](https://dkssud-dus.github.io/webRedesign-WildRift/pages/monster-epic01.html)
+### 3.2.4. [Monster Detail](https://young0234.github.io/webRedesign-WildRift/pages/monster-epic01.html)
 ![31](https://github.com/user-attachments/assets/1f053dbb-27cb-46b3-997c-2b5f87224cc6)
 
 #### 목적
@@ -477,7 +477,7 @@
 
 ---
 
-### 3.2.5. [Character Detail](https://dkssud-dus.github.io/webRedesign-WildRift/pages/character.html)
+### 3.2.5. [Character Detail](https://young0234.github.io/webRedesign-WildRift/pages/character.html)
 ![32](https://github.com/user-attachments/assets/90b14767-9ef5-4d84-9fc8-f08406198d7b)
 
 #### 목적
@@ -503,7 +503,7 @@
 
 ---
 
-### 3.2.6. [Skin](https://dkssud-dus.github.io/webRedesign-WildRift/pages/skinCharacterSelection.html)
+### 3.2.6. [Skin](https://young0234.github.io/webRedesign-WildRift/pages/skinCharacterSelection.html)
 ![33](https://github.com/user-attachments/assets/7cd58f18-ba1d-451c-ae7e-cb869a0690dc)
 
 #### 목적
