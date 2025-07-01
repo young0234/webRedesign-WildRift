@@ -219,9 +219,9 @@
 ---
 
 ## 3. Read Project Details in Other Languages
-1. [English](https://github.com/dkssud-dus/webRedesign-WildRift/blob/main/README_en.md)
-2. [한국어](https://github.com/dkssud-dus/webRedesign-WildRift/blob/main/README_ko.md)
-3. [日本語](https://github.com/dkssud-dus/webRedesign-WildRift/blob/main/README_ja.md)
+1. [English](https://github.com/young0234/webRedesign-WildRift/blob/main/README_en.md)
+2. [한국어](https://github.com/young0234/webRedesign-WildRift/blob/main/README_ko.md)
+3. [日本語](https://github.com/young0234/webRedesign-WildRift/blob/main/README_ja.md)
 
 </br>
 </br>
